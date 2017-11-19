@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Code/C++/C++Primer/unit09/9.13_listInt2vectorDouble/SWlib.cpp
+SWlib.h
+D:/Code/C++/C++Primer/unit09/9.13_listInt2vectorDouble/SWlib.h
+typeinfo
+-
+
+D:/Code/C++/C++Primer/unit09/9.13_listInt2vectorDouble/SWlib.h
+vector
+-
+string
+-
+cstring
+-
+iostream
+-
+
+D:/Code/C++/C++Primer/unit09/9.13_listInt2vectorDouble/main.cpp
+iostream
+-
+vector
+-
+list
+-
+typeinfo
+-
+SWlib.h
+D:/Code/C++/C++Primer/unit09/9.13_listInt2vectorDouble/SWlib.h
+

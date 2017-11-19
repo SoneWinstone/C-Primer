@@ -1,0 +1,3 @@
+D:/Code/C++/C++Primer/unit10/10.27_uniqueCopy/cmake-build-debug/CMakeFiles/10_27_uniqueCopy.dir
+D:/Code/C++/C++Primer/unit10/10.27_uniqueCopy/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Code/C++/C++Primer/unit10/10.27_uniqueCopy/cmake-build-debug/CMakeFiles/rebuild_cache.dir
