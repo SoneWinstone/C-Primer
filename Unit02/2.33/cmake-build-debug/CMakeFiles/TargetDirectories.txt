@@ -1,0 +1,3 @@
+H:/Code/C++/C++Primer/Unit02/2.33/cmake-build-debug/CMakeFiles/2_33.dir
+H:/Code/C++/C++Primer/Unit02/2.33/cmake-build-debug/CMakeFiles/edit_cache.dir
+H:/Code/C++/C++Primer/Unit02/2.33/cmake-build-debug/CMakeFiles/rebuild_cache.dir

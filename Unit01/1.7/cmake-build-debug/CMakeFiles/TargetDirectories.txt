@@ -1,0 +1,3 @@
+H:/Code/C++/C++Primer/Unit01/1.5/cmake-build-debug/CMakeFiles/1_5.dir
+H:/Code/C++/C++Primer/Unit01/1.5/cmake-build-debug/CMakeFiles/edit_cache.dir
+H:/Code/C++/C++Primer/Unit01/1.5/cmake-build-debug/CMakeFiles/rebuild_cache.dir

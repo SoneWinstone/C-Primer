@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+H:/Code/C++/C++Primer/SaleBook/Sales_item.h
+iostream
+-
+string
+-
+
+H:/Code/C++/C++Primer/SaleBook/main.cpp
+iostream
+-
+fstream
+-
+Sales_item.h
+H:/Code/C++/C++Primer/SaleBook/Sales_item.h
+
